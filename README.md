@@ -234,6 +234,10 @@ python make_public_fixed_fewshot.py
 python run_fewshot_all_sheep.py --do-train --do-predict --do-eval --cfgs <topdown_cfgs...>
 python run_fewshot_yolox.py
 ```
+## License
+This dataset(v1.0) is released under the CC BY 4.0 licence;
+and the code is released under the MIT licence .
+
 
 ## Acknowledgement
 
