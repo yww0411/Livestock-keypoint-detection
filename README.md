@@ -238,6 +238,20 @@ python run_fewshot_yolox.py
 This dataset(v1.0) is released under the CC BY 4.0 licence;
 and the code is released under the MIT licence .
 
+## Citations
+If you find this code useful for your research, please cite our paper:
+```
+@article{Wang2026KeypointPLF,
+  title   = {Performance evaluation of a state-of-the-art keypoint detection method for precision livestock farming},
+  author  = {Wang, Yiwei and Yuan, Xufeng and Wei, Bingxue and Ruchay, Alexey and Pezzuolo, Andrea and Guo, Hao},
+  journal = {Computers and Electronics in Agriculture},
+  volume  = {240},
+  pages   = {111230},
+  year    = {2026},
+  issn    = {0168-1699},
+  doi     = {10.1016/j.compag.2025.111230}
+}
+```
 
 ## Acknowledgement
 
