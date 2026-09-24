@@ -50,11 +50,13 @@ mim install "mmpose==1.3.1"
 pip install mmyolo==0.5.0
 pip install mmdet==3.0.0rc6
 ```
+
 #### 4. Prepare your dataset
 
-Download [our dataset]() or reorganize your own dataset according to the structure below and
-place the dataset in the directory of the model you intend to use.
-(xxx.json) is a COCO-format keypoint annotation file containing keypoint annotations for each corresponding image folder.
+Our dataset is provided in the `data_process` folder. Alternatively, you can reorganize your own dataset according to the structure below and place it in the directory of the model you intend to use.
+
+`xxx.json` is a COCO-format keypoint annotation file containing keypoint annotations for the images in the corresponding image folder.
+
 ```
 ./data_process
 |── cattle/horse/sheep     
